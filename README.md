@@ -18,11 +18,12 @@ Software:
 ## Results
 Seven school district metrics were produced initially, and have been reproduced below to compare how performances were affected by the ninth grade Thomas High School scores:
 1. District summary
+![alt text 1](Resources/images/bottom_performing_5_reanalyzed.png) ![alt text 2](Resources/images/bottom_performing_all_reanalyzed.png)
 2. School summary
 3. Top and bottom 5 performing schools
 4. Average Math and Reading Scores by grade level
 5. Average Math and Reading Scores by school size
-6. Average Math and Reading Scores by spending 
+6. Average Math and Reading Scores by spending
 7. Average Math and Reading Scores by school type
 
 ## Summary
