@@ -51,15 +51,19 @@ Thomas High School remained the second best performing school in the district ev
 
 ### 4. How does replacing the ninth-grade scores affect scores by:
 <details>
-<summary>Grade Level? Unchanged after analysis.</summary>
+<summary>Grade Level? Both math and reading scores now read "NaN".</summary>
   Reanalyzed Math by Grade
-<img src="Resources/images/math_scores_by_grade_reanalyzed.png">
+    <img src="Resources/images/math_scores_by_grade_reanalyzed.png">
+    
   Original Math by Grade
-<img src="Resources/images/math_scores_by_grade_original.png"> 
-  Reanalyzed Reading by Grade
-<img src="Resources/images/reading_scores_by_grade_reanalyzed.png"> 
+    <img src="Resources/images/math_scores_by_grade_original.png"> 
+    
+  Reanalyzed Reading by Grade 
+    <img src="Resources/images/reading_scores_by_grade_reanalyzed.png"> 
+    
   Original Reading by Grade
-<img src="Resources/images/reading_scores_by_grade_original.png"> 
+    <img src="Resources/images/reading_scores_by_grade_original.png"> 
+    
 </details>
 
 <details>
@@ -73,7 +77,7 @@ Thomas High School remained the second best performing school in the district ev
 <details>
 <summary>Spending? Unchanged after analysis.</summary>
   Reanalyzed
-<img src="Resources/images/scores_by spending_reanalyzed.png"> 
+<img src="Resources/images/scores_by_spending_reanalyzed.png"> 
   Original
 <img src="Resources/images/scores_by_spending_original.png"> 
 </details>
