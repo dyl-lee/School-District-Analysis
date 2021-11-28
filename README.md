@@ -19,7 +19,7 @@ Software:
 Seven school district metrics were produced initially, and have been reproduced to compare how performances were affected by the ninth grade Thomas High School scores below.
 
 ### 1. How is the district summary affected?
-Changes to the district summary metric were contained to Thomas High School. After reanalysis, Thomas High School saw decrease in all areas of performance: average math and reading scores, percentage of students passing math and reading as well as percentage of students passing both math and reading. However, the magnitude of the difference between the original and reanalyzed figures is very minimal (at most 0.31% as seen in % overall passing numbers), indicating that the ninth grade scores of Thomas High School were close enough to the school's average that removing them did not affect the overall school's performance numbers in a significant way.
+Changes to the district summary metric were contained to Thomas High School only. The district summary was largely unchanged after reanalysis when considering performance to the nearest percent.  
     <details>
     <summary>District Summary comparison</summary>
     Reanalyzed
@@ -29,7 +29,7 @@ Changes to the district summary metric were contained to Thomas High School. Aft
     </details>
 
 ### 2. How is the school summary affected? 
-Per conditions of reanalysis, math and reading scores were removed for 9th grade students from Thomas High School and replaced with "NaN".
+Per conditions of reanalysis, math and reading scores were removed for 9th grade students from Thomas High School and replaced with "NaN". After reanalysis, Thomas High School saw decrease in all areas of performance: average math and reading scores, percentage of students passing math and reading as well as percentage of students passing both math and reading. However, the magnitude of the difference between the original and reanalyzed figures is very minimal (at most 0.31% as seen in % overall passing numbers), indicating that the ninth grade scores of Thomas High School were close enough to the school's average that removing them did not affect the overall school's performance numbers in a significant way.
     <details>
     <summary>Comparison of Thomas High School Summaries</summary>
       Reanalyzed
@@ -87,3 +87,8 @@ Thomas High School remained the second best performing school in the district ev
 </details>
 
 # Summary
+In summary, removing scores from ninth grade students of Thomas High School only slightly lowered school district performance, and had similarly minimal effect on performance within Thomas High School. The reanalysis showed that the major changes include:
+* Average math score decreased from 79.0% to 78.9%
+* Passing math percentage decreased from 75% to 74.8%
+* Passing reading percentage decreased to 86% to 85.7%
+* Overall passing percentage decreased 65% to 64.9%
