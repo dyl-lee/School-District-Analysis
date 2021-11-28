@@ -69,7 +69,7 @@ Thomas High School remained the second best performing school in the district ev
 <details>
 <summary>School Size? Unchanged after analysis.</summary>
   Reanalyzed
-<img src="Resources/images/scores_by_school_size_reanalyzed.png">
+<img src="Resources/images/scores_by_school_size_reanalyzed.png">    
   Original
 <img src="Resources/images/scores_by_school_size_original.png"> 
 </details>
@@ -77,7 +77,7 @@ Thomas High School remained the second best performing school in the district ev
 <details>
 <summary>Spending? Unchanged after analysis.</summary>
   Reanalyzed
-<img src="Resources/images/scores_by_spending_reanalyzed.png"> 
+<img src="Resources/images/scores_by_spending_reanalyzed.png"
   Original
 <img src="Resources/images/scores_by_spending_original.png"> 
 </details>
@@ -85,7 +85,8 @@ Thomas High School remained the second best performing school in the district ev
 <details>
 <summary>School Type? Unchanged after analysis.</summary>
   Reanalyzed
-<img src="Resources/images/scores_by_school_type_reanalyzed.png"> 
+<img src="Resources/images/scores_by_school_type_reanalyzed.png">
+    
   Original
 <img src="Resources/images/scores_by_school_type_original.png"> 
 </details>
