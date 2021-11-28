@@ -92,7 +92,7 @@ Original
 </details>
 
 # Summary
-In summary, removing scores from ninth grade students of Thomas High School only slightly lowered school district performance, and had similarly minimal effect on performance within Thomas High School. The reanalysis showed that the major changes include:
+In summary, removing scores to combat attempts of academic dishonesty from ninth grade students of Thomas High School only slightly lowered school district performance. This had similarly minimal effect on performance within Thomas High School. The reanalysis showed that the major changes in the school district summary included:
 * Average math score decreased from 79.0% to 78.9%
 * Passing math percentage decreased from 75% to 74.8%
 * Passing reading percentage decreased to 86% to 85.7%
