@@ -49,11 +49,9 @@ Thomas High School remained the second best performing school in the district ev
     <img src="Resources/images/top_performing_5_original.png"> 
     </details>
 
-### 4. How does replacing the ninth-grade scores affect the following:
-Average Math and Reading Scores by grade level remain unchanged after removing 9th grade scores and applying reanalysis
-Per conditions of reanalysis, math and reading scores were removed for 9th grade students from Thomas High School and replaced with "NaN".
+### 4. How does replacing the ninth-grade scores affect scores by:
 <details>
-<summary>Comparison of Average Math Scores by Grade Level</summary>
+<summary>Grade Level? Unchanged after analysis.</summary>
   Reanalyzed Math by Grade
 <img src="Resources/images/math_scores_by_grade_reanalyzed.png">
   Original Math by Grade
@@ -64,28 +62,24 @@ Per conditions of reanalysis, math and reading scores were removed for 9th grade
 <img src="Resources/images/reading_scores_by_grade_original.png"> 
 </details>
 
-### 5. Average Math and Reading Scores by school size remain unchanged after removing 9th grade scores and applying reanalysis
-
 <details>
-<summary>Comparison of Scores by School Size</summary>
+<summary>School Size? Unchanged after analysis.</summary>
   Reanalyzed
 <img src="Resources/images/scores_by_school_size_reanalyzed.png">
   Original
 <img src="Resources/images/scores_by_school_size_original.png"> 
 </details>
 
-### 6. Average Math and Reading Scores by spending remain unchanged after removing 9th grade scores and applying reanalysis
 <details>
-<summary>Comparison of Scores by Spending</summary>
+<summary>Spending? Unchanged after analysis.</summary>
   Reanalyzed
 <img src="Resources/images/scores_by spending_reanalyzed.png"> 
   Original
 <img src="Resources/images/scores_by_spending_original.png"> 
 </details>
 
-### 7. Average Math and Reading Scores by school type remain unchanged after removing 9th grade scores and applying reanalysis
 <details>
-<summary>Comparison of Scores by School Type</summary>
+<summary>School Type? Unchanged after analysis.</summary>
   Reanalyzed
 <img src="Resources/images/scores_by_school_type_reanalyzed.png"> 
   Original
